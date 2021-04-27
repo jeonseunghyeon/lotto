@@ -1,0 +1,32 @@
+.ball{
+  float: left;
+  width: 60px;   
+  height: 60px;  
+  line-height: 60px;
+  font-size: 28px;
+  border-radius: 100%;
+  text-align: center;  
+  color: #fff;
+  text-shadow: 0px 0px 3px rgba(73, 57, 0, .8);
+     
+}
+
+.ball1 {
+    background-color: red;
+}
+
+.ball2{
+    background-color: salmon;
+}
+.ball3{
+    background-color: slateblue;
+}
+.ball4{
+    background-color: springgreen;
+}
+.ball5{
+    background-color: tomato;
+}
+.ball6{
+    background-color: yellowgreen;
+}
